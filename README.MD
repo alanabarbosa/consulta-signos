@@ -1,6 +1,6 @@
 # Consulta ao Signo do Zodíaco
 
-Este é um projeto simples desenvolvido para consulta ao signo do zodíaco a partir da data de nascimento do usuário. O sistema recebe a data inserida, processa as informações e retorna o signo correspondente.
+Este é um projeto simples desenvolvido para consulta ao signo do zodíaco a partir da data de nascimento do usuário. O sistema recebe a data inserida, processa as informações e retorna o signo correspondente. Foi feito como aula prática da disciplina Programação Web do quinto semestre do curso de Engenharia de Software.
 
 ## Tecnologias Utilizadas
 
